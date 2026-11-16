@@ -1,4 +1,4 @@
-"""Модульные тесты HTTP-интерфейса."""
+"""Модульные тесты HTTP-интерфейса"""
 import pytest
 from app import create_app
 
